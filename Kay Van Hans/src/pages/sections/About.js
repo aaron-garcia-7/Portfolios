@@ -117,6 +117,7 @@ const ScAbout = styled("section")`
     width: calc(24rem + 12vw);
     top: 32%;
     left: 14%;
+    z-index: 2;
     .bioText {
       width: 120%;
       font-size: calc(0.8rem + 0.8vw);
