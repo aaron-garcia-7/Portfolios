@@ -1,1 +1,1 @@
-Source Code for the Kay Van Hans inspired portfolio
+Source Code for the Kay Van Hans / OBYS agency inspired portfolio
